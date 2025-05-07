@@ -11,7 +11,7 @@ public class MyString implements IString{
 
     @Override
     public int f1(String string) {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+        return 1000;
     }
     
     @Override
